@@ -10,6 +10,7 @@
 using System;
 namespace AssemblyCSharp
 {
+    // Teste de Commit //
 	public interface Personagem
 	{
 		void atacar();
